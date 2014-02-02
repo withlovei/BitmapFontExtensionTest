@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\font.png</Source>
+      <Name>Fonts\font</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Box Files\windowsphone\wpgit\TestBitmapFont\TestBitmapFont\TestBitmapFontLib\bin\Windows Phone\Debug\Content\Fonts\font.xnb</Output>
+      <Time>2014-02-02T10:35:45.9999269+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\fontbxhcu.png</Source>
+      <Name>Fonts\fontbxhcu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Box Files\windowsphone\wpgit\TestBitmapFont\TestBitmapFont\TestBitmapFontLib\bin\Windows Phone\Debug\Content\Fonts\fontbxhcu.xnb</Output>
+      <Time>2014-02-02T10:35:46.0489575+07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\life.png</Source>
+      <Name>Fonts\life</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\My Box Files\windowsphone\wpgit\TestBitmapFont\TestBitmapFont\TestBitmapFontLib\bin\Windows Phone\Debug\Content\Fonts\life.xnb</Output>
+      <Time>2014-02-02T10:35:46.0679363+07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{666E0C47-D4CD-457A-B0F9-83F528BCBEE0}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\My Box Files\windowsphone\wpgit\TestBitmapFont\TestBitmapFont\TestBitmapFontLibContent\</RootDirectory>
+      <LoggerRootDirectory>F:\My Box Files\windowsphone\wpgit\TestBitmapFont\TestBitmapFont\TestBitmapFontLib\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\My Box Files\windowsphone\wpgit\TestBitmapFont\TestBitmapFont\TestBitmapFontLib\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\My Box Files\windowsphone\wpgit\TestBitmapFont\TestBitmapFont\TestBitmapFontLib\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-11-24T15:25:43.3946443+07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
