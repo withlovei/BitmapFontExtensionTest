@@ -1,0 +1,4 @@
+BitmapFontExtensionTest
+=======================
+
+Test bitmapfont windowsphone
